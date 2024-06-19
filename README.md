@@ -7,5 +7,8 @@ https://docs.docker.com/desktop/install/windows-install/
 3. Do a dockerfile and run it locally and when you are why not try it in the cloud.
 4. Try to deploy a django application connected to Azure SQL using Docker and Azure App service. (Optional but its good practice)
 
-  Watch this course before doing the labs if this is new info for you:
-   https://www.youtube.com/watch?v=pTFZFxd4hOI
+ # Watch this course before doing the labs if this is new info for you:
+    https://www.youtube.com/watch?v=pTFZFxd4hOI
+
+# follow this vedio
+    https://youtu.be/PaGBm9a3bHw?si=xyE-DXorsr18dIpD
