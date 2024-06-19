@@ -13,7 +13,7 @@ https://docs.docker.com/desktop/install/windows-install/
 # follow this vedio
     https://youtu.be/PaGBm9a3bHw?si=xyE-DXorsr18dIpD
 
-# After creating ACR(Container registry) and you Have to create a ACI(Conatiner instance). If you can go to terminal Vcode and go to terminal Azure Cloud Shell. there you have to write a code like
+# After creating ACR(Container registry) in Azure cloud and you Have to create a ACI(Conatiner instance). If you can go to terminal Vcode and go to terminal Azure Cloud Shell. there you have to write a code like
 az container create \
   --resource-group Demoregister \
   --name demoinstance \ # you can you new name here
